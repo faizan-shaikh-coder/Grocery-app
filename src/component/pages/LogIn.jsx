@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { db } from "../../firebase/firebaseconfig";
+import { db } from "../../firebase/init";
 import { collection, getDocs, addDoc } from "firebase/firestore";
 import { useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";

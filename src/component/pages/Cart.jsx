@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { CartContext } from '../../context/CartContext';
-import { db } from '../../firebase/firebaseconfig';
+import { db } from '../../firebase/init';
 import { collection, addDoc, Timestamp } from 'firebase/firestore';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

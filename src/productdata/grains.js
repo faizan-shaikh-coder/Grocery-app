@@ -5,28 +5,28 @@ const grainsData = [
     id: 1,
     name: "Basmati Rice",
     price: 90,
-    imageUrl: "public/grainsimg/rice.jpeg",
+    imageUrl: "/grainsimg/rice.jpeg",
     description: "Premium quality long-grain basmati rice."
   },
   {
     id: 2,
     name: "Brown Rice",
     price: 80,
-    imageUrl: "public/grainsimg/BrownRice.jpeg",
+    imageUrl: "/grainsimg/BrownRice.jpeg",
     description: "Healthy and nutritious brown rice."
   },
   {
     id: 3,
     name: "Wheat Flour",
     price: 40,
-    imageUrl: "public/grainsimg/wheat flour.jpeg",
+    imageUrl: "/grainsimg/wheat flour.jpeg",
     description: "Stone-ground wheat flour for soft rotis."
   },
   {
     id: 4,
     name: "Maida",
     price: 35,
-    imageUrl: "public/grainsimg/maida.jpeg",
+    imageUrl: "/grainsimg/maida.jpeg",
     description: "Refined flour for baking and cooking."
   },
   
@@ -36,7 +36,7 @@ const grainsData = [
     id: 5,
     name: "Millet (Bajra)",
     price: 45,
-    imageUrl: "public/grainsimg/millte.jpeg",
+    imageUrl: "/grainsimg/millte.jpeg",
     description: "Healthy millet grains rich in nutrients."
   },
   
@@ -45,7 +45,7 @@ const grainsData = [
     id: 6,
     name: "Quinoa",
     price: 120,
-    imageUrl: "public/grainsimg/Quinoa.jpeg",
+    imageUrl: "/grainsimg/Quinoa.jpeg",
     description: "High-protein grain alternative."
   },
   
@@ -53,7 +53,7 @@ const grainsData = [
     id: 7,
     name: "Cornmeal",
     price: 48,
-    imageUrl: "public/grainsimg/corn.jpeg",
+    imageUrl: "/grainsimg/corn.jpeg",
     description: "Ground corn used in baking and porridge."
   },
   
